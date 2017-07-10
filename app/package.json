@@ -1,0 +1,18 @@
+{
+  "author": "@nicholaswmin <nik.kyriakides@gmail.com> (https://github.com/nicholaswmin)",
+  "name": "app",
+  "description": "Just a vagrant playground",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
